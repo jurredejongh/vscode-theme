@@ -1,0 +1,21 @@
+{
+  "name": "moon",
+  "displayName": "Moon",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Moon",
+        "uiTheme": "vs",
+        "path": "./themes/Moon-color-theme.json"
+      }
+    ]
+  }
+}
