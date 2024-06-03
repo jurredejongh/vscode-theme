@@ -3,7 +3,7 @@
   "name": "Moon",
   "colors": {
     "activityBar.background": "#ffffff",
-    "activityBar.border": "#00000000",
+    "activityBar.border": "#f4f6fc",
     "activityBar.foreground": "#bec9d3",
     "activityBarBadge.background": "#000000",
     "activityBarBadge.foreground": "#ffffff",
@@ -37,7 +37,7 @@
     "editorError.foreground": "#ff0032",
     "editorGroup.border": "#f4f6fc",
     "editorGroupHeader.tabsBackground": "#ffffff",
-    "editorGroupHeader.tabsBorder": "#00000000",
+    "editorGroupHeader.tabsBorder": "#f4f6fc",
     "editorGutter.addedBackground": "#00ff68",
     "editorGutter.deletedBackground": "#ff0032",
     "editorGutter.modifiedBackground": "#000000",
@@ -114,7 +114,7 @@
     "tab.activeBackground": "#000000",
     "tab.activeForeground": "#ffffff",
     "tab.activeModifiedBorder": "#00000000",
-    "tab.border": "#00000000",
+    "tab.border": "#f4f6fc",
     "tab.inactiveBackground": "#00000000",
     "tab.inactiveForeground": "#bec9d3",
     "tab.inactiveModifiedBorder": "#000000",
@@ -143,7 +143,10 @@
     "titleBar.activeForeground": "#6b7a88",
     "titleBar.inactiveBackground": "#ffffff",
     "titleBar.inactiveForeground": "#bec9d3",
-    "widget.shadow": "#00000000"
+    "widget.shadow": "#00000000",
+
+    "titleBar.border": "#f4f6fc",
+    "sideBar.border": "#f4f6fc"
     //"actionBar.toggledBackground": "#e7ecf233",
     //"activityBar.activeBorder": "#bec9d3",
     //"activityBar.dropBorder": "#bec9d3",
