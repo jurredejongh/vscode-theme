@@ -1,7 +1,11 @@
 {
   "name": "moon",
   "displayName": "Moon",
-  "description": "",
+  "description": "A mo(o)nochrome white theme for VSCode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jurredejongh/vscode-theme.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.89.0"
